@@ -4,7 +4,7 @@
 ![POST Astronaut](../Screenshots/AddAstroSuccessfully.jpg)
 
 ### ❌ Create Astronaut Exception
-![POST Astronaut](../Screenshots/AddAstrowithSatelliteException.jpg)
+![POST Astronaut](Screenshots/AddAstrowithSatelliteException.jpg)
 
 ### 🔄 Update Satellite (Success)
 ![PUT Success](../Screenshots/UpdateSatelliteSuccess.jpg)
